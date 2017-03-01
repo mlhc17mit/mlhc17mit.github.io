@@ -77,4 +77,6 @@ span.required {
 span.optional {
   color:     green;
 }
-
+span.slides {
+  color:     blue;
+}
